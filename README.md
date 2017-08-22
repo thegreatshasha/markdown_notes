@@ -7,3 +7,4 @@ These are notes on various topics. Some guidelines.
 * While reading the paper and making notes, start by writing down your questions on the section. Make a compilation.
 * Kindly avoid copy pasting as much as possible.
 * Algorithms section should be written in latex.
+* Add minimal code examples for algorithms.
